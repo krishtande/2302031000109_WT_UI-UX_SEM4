@@ -1,0 +1,135 @@
+Let's outline the steps for creating a "Space Exploration Simulation" website, keeping in mind the provided image's instructions for repository setup and Figma prototyping.
+
+Task 1: Creating a GIT Repository and Setting up Folders
+
+* Repository Creation:
+
+* Go to your Git platform (GitHub, GitLab, Bitbucket, etc.).
+
+* Click "New Repository".
+
+* Name the repository with your enrollment number (as instructed in the image). For example, if your enrollment number is "SES123", the repository would be named "SES123".
+
+* Choose visibility (Public or Private).
+
+* Click "Create Repository".
+
+* Folder Creation:
+
+* Option 1 (Local Clone):
+
+* Clone the repository to your computer: git clone [repository URL]
+
+* Inside the cloned directory, create two folders: "Assignment_1" and "Assignment_2".
+
+* Option 2 (Platform Interface):
+
+* Go to your repository on the Git platform's website.
+
+* Use the platform's interface to create the "Assignment_1" and "Assignment_2" folders directly within the repository.
+
+* Word File Creation:
+
+* Create a Word document.
+
+* Document each step of Task 1 (replace with your actual actions):
+
+**Task 1: GIT Repository and Folder Setup**
+
+
+1. Repository Creation:
+
+- Went to [Git Platform URL].
+
+- Clicked "New Repository".
+
+- Repository name: SES123 (My Enrollment Number).
+
+- Visibility: Private.
+
+- Clicked "Create Repository".
+
+
+2. Folder Creation:
+
+- Used Option 1 (Local Clone):
+
+- Cloned repo: `git clone [repository URL]`
+
+- Created "Assignment_1" and "Assignment_2" folders.
+
+
+3. Word File Creation:
+
+- Created this Word document.
+
+
+* Assignment Upload:
+
+* Save the Word document as a PDF (.pdf) – generally preferred – or as a .docx file.
+
+* Place the file inside the "Assignment_1" folder in your Git repository.
+
+* Repository Link Submission:
+
+* Copy your Git repository URL.
+
+* Paste the URL into the provided Google Form.
+
+Task 2: Preparing a Prototype Design in Figma
+
+Project: Space Exploration Simulation
+
+* Website Screen Planning (8-10 screens minimum):
+
+* Homepage: Introduction to the simulation, featured missions, call to action ("Start Exploring").
+
+* Mission Selection: List of available space missions (e.g., Moon landing, Mars rover, ISS expedition).
+
+* Celestial Body Selection: List of planets, moons, asteroids, etc., to explore.
+
+* Mission Briefing: Details about the selected mission, objectives, and background information.
+
+* Simulation Interface: The main simulation screen with controls for spacecraft, camera views, and interactive elements.
+
+* Spacecraft Controls: Interface for controlling the spacecraft (e.g., thrusters, navigation, scientific instruments).
+
+* Data Display: Real-time data from the simulation (e.g., speed, altitude, fuel, scientific readings).
+
+* Mission Log: Record of the mission's progress and key events.
+
+* User Profile: Profile page for registered users, showing their progress and achievements.
+
+* Help/Tutorial: Instructions on how to use the simulation.
+
+* Figma Prototype Design:
+
+* Use Figma to design each of the screens listed above.
+
+* Add text, images (use placeholder images), icons, and other design elements.
+
+* Design the user flow: How will users select missions, navigate the simulation, and access information?
+
+* Focus on the Simulation Interface and Spacecraft Controls screens. These are the core interactive elements. Make them intuitive and engaging.
+
+* Use Figma's prototyping features to link screens and simulate interactivity. Add interactions like clicks, transitions, and hover effects.
+
+* Screen Design Upload:
+
+* Export Figma designs as PNG, JPEG, or PDF files.
+
+* Place the files inside the "Assignment_1" folder in your Git repository. A subfolder like "Figma_Designs" is recommended.
+
+Key Points:
+
+* Immersive Experience: The design should aim to create an immersive and engaging space exploration experience.
+
+* Realistic Controls: The simulation controls should be intuitive and reflect real-world spacecraft operations.
+
+* Educational Content: Include educational information about space exploration, celestial bodies, and physics.
+
+* Organization: Keep your Git repository organized, especially the "Assignment_1" folder.
+
+* Documentation: The Word file is essential. Document every step you take.
+
+Remember to commit and push your changes to your Git repository regularly. This ensures you have backups and allows you to submit your project.
